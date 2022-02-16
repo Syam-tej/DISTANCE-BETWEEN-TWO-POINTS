@@ -17,13 +17,13 @@ Print the result(Distance between the points).
 End of the program.
 
 ### PROGRAM:
-~~~
+~~~~
 import math
 d2=[10,6]
 d1=[4,2]
 d=math.sqrt((d2[0]-d1[0])**2+(d2[1]-d1[1])**2)
 print(format(d,".2f"))
-~~~
+~~~~
   
 ### OUTPUT:
 ![github logo](distbw.png)
